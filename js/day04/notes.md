@@ -6,7 +6,6 @@ logical: &&, ||, !
 typeof: typeof instanceof
 bitiwise: &, |, ^, ~, <<, >>, >>>
 
-
 condtional statements:
 if, else if, else, switch, case, default
 
