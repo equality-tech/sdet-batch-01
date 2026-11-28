@@ -4,22 +4,20 @@ console.log(arr.includes(40));
 console.log(arr.includes(100));
 
 // console.log(arr);
-// let res = arr.reverse();
+ let res = arr.reverse();
 // console.log(res);
 // console.log(arr);
 
-//console.log(arr.push(1000));
+console.log(arr.push(1000));
 
 
+console.log(arr.pop());
 // console.log(arr.pop());
 // console.log(arr.pop());
-// console.log(arr.pop());
-
-
 
 
 // console.log(arr);
-//let res = arr.concat([1,2,3])
+let res1 = arr.concat([1,2,3])
 // console.log(res);
 
 
